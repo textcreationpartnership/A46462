@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Late K. James's commission to his privateers to ravage, plunder, burn, sink, and destroy all the ships and goods of the people of England, Scotland, and Ireland : with remarks thereupon.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46462</idno>
+            <idno type="STC">Wing J155A</idno>
+            <idno type="STC">ESTC R37009</idno>
+            <idno type="EEBO-CITATION">16182432</idno>
+            <idno type="OCLC">ocm 16182432</idno>
+            <idno type="VID">105001</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46462)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105001)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1595:89)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Late K. James's commission to his privateers to ravage, plunder, burn, sink, and destroy all the ships and goods of the people of England, Scotland, and Ireland : with remarks thereupon.</title>
+                  <author>James II, King of England, 1633-1701. To our trusty and well-beloved, Captain Patrick Lambert.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for P. Smart ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Contains extract of a commission written by James II to Captain Patrick Lambert, privateer.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701.</term>
+               <term>Jacobites.</term>
+               <term>Privateering --  England.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:105001:1" rendition="simple:additions"/>
+            <head>THE LATE K. James's Commiſſion, TO HIS PRIVATEERS: To Ravage, Plunder, Burn, Sink, and Deſtroy all the Ships and Goods of the People of <hi>England, Scotland,</hi> and <hi>Ireland. With Remarks thereupon.</hi>
+            </head>
+            <opener>
+               <signed>James, <hi>by the Grace of God of</hi> England, Scotland, <hi>and</hi> Ire<g ref="char:EOLhyphen"/>land, <hi>King, Defender of the Faith,</hi> &amp;c. </signed> 
+               <salute>
+                  <hi>To Our Truſty and Well-Beloved, Captain</hi> Patrick Lambert.</salute>
+            </opener>
+            <p>KNOW ye, That we Repoſing Special Truſt in your Approved Fidelity and Valour have Aſsigned, Conſtituted and Appointed you Commander of the Good <hi>Frigat</hi> called the <hi>Providence;</hi> and further, We give you full Power and Authority to enter into any <hi>Port</hi> or <hi>River</hi> of the Kingdoms of <hi>England, Scotland</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> or any <hi>Territories</hi> thereunto belonging, and either there or at Sea, to take and apprehend, and in caſe of any Oppoſition or Reſiſtance, to <hi>Sink, Burn,</hi> or other<g ref="char:EOLhyphen"/>wiſe <hi>Deſtroy</hi> all <hi>Ships</hi> and <hi>Veſſels,</hi> together with their Goods, Lading, and Merchan<g ref="char:EOLhyphen"/>dizes belonging to the Inhabitants of <hi>England, Scotland</hi> and <hi>Ireland,</hi> or either of them, together with the Ships, Goods, and Merchandizes of the <hi>States</hi> of the <hi>United Pro<g ref="char:EOLhyphen"/>vinces</hi> or Their Subjects, and to bring and ſend up all ſuch Ships and Goods as they ſhall ta<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e in<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſome <hi>Port</hi> of <hi>France,</hi> and to procure the ſame to be adiudged <hi>law<g ref="char:EOLhyphen"/>ful Prize</hi> in the next Court of <hi>Admiralty,</hi> eſtabliſhed by our <hi>Dear Brother</hi> the Moſt <hi>Chriſtian King.</hi> And the <hi>Tenths</hi> and other Dues ariſing out of the ſaid <hi>Prizes</hi> are to be paid to <hi>Thomas Stratford,</hi> or in his abſence to <hi>Jean Nimport</hi> of <hi>Breſt,</hi> or to ſuch other Perſons as ſhall have <hi>Authority</hi> from <hi>Us</hi> to receive the ſame.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our Court at the Caſtle of St. <hi>Germains,</hi> &amp;c.</hi>
+               </dateline>
+               <signed>
+                  <hi>Signed <hi>Melfort.</hi>
+                  </hi>
+               </signed>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>This is the Subſtance of the Commiſſion.</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="text">
+            <head>REMARQUES, <hi>&amp;c.</hi>
+            </head>
+            <p>THE Paſſions and Affections of ſome People are ſo unaccoun<g ref="char:EOLhyphen"/>table, that it puzles Imaginati<g ref="char:EOLhyphen"/>on to conceive how ſtrong a Zeal can ariſe from ſo undeſerving a Sub<g ref="char:EOLhyphen"/>ject of their Veneration. For inſtance, not to Treat untenderly with on the Ru<g ref="char:EOLhyphen"/>ines of Majeſty, nor take up Royal Miſ<g ref="char:EOLhyphen"/>carriages, to make Reflections on Great<g ref="char:EOLhyphen"/>neſs in Diſtreſs: The Publication of this following <hi>Commiſſion,</hi> of the Late King <hi>James,</hi> is not ſo much intended, as an In<g ref="char:EOLhyphen"/>vective on that unhappy Prince, as to ex<g ref="char:EOLhyphen"/>preſs our Admiration at the unfathomable Extravagancies of ſome over-bigotted Zealots in his Favour.</p>
+            <p>We are all ſenſible that 'tis the common Ambition of degraded Princes, how juſt<g ref="char:EOLhyphen"/>ly ſoever Dethroned, to indeavour their own Reſtauration. There is a Chance in a Crown, and 'tis an extraordinary Reſig<g ref="char:EOLhyphen"/>nation, that can quit the Pretences to Ti<g ref="char:EOLhyphen"/>tles ſo Great, though never ſo deſerving<g ref="char:EOLhyphen"/>ly Forfeited. We do not therefore at all wonder at the <hi>Iriſh</hi> and <hi>French</hi> Army, pre<g ref="char:EOLhyphen"/>pared for his once intended Deſcent and Invaſion of <hi>England;</hi> nor the early Naval Preparations of the <hi>French</hi> on that Occa<g ref="char:EOLhyphen"/>ſion. Such an Expedition on ſo important an Attempt, carried ſome little Face of Glory in it. His very Enemies could not deny but ſuch an Enterprize had been an
+<pb facs="tcp:105001:2" rendition="simple:additions"/> Ambition we<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>; and had he ſuc<g ref="char:EOLhyphen"/>ceeded, he might fairly have written himſelf <hi>James</hi> the Conqueror. But Gen<g ref="char:EOLhyphen"/>tlemen, as bold and gallant Atchieve<g ref="char:EOLhyphen"/>ments, in the Univerſal Standard of Ho<g ref="char:EOLhyphen"/>nour, carry a great Name; and which true Greatneſs, poſſibly, has no occaſion to be aſhamed of. Nevertheleſs, there may be thoſe poorer Deſigns, that inſtead of being either Great or Glorious, perhaps may carry the vileſt and moſt abject Face, that a much leſs Character then King <hi>James</hi> ought to bluſh at. As for Example, the foregoing <hi>Commiſſion.</hi>
+            </p>
+            <p>There you'l find inſtead of a more war<g ref="char:EOLhyphen"/>rantable Ambition of recovering Three Kingdoms, he poorly deſcends to grant his Commiſſions to Privateers to R<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fle and Spoil all the Subjects of <hi>England, Scot<g ref="char:EOLhyphen"/>land</hi> and <hi>Ireland,</hi> indifferently to Burn, Sink and Fire their Veſſels, <hi>&amp;c.</hi> and all this without reſpect of Perſons, Intereſts or Religion. The ſevereſt Romaniſt, or moſt violent Jacobite (without excepti<g ref="char:EOLhyphen"/>on) is to he ſwept in the common Doom. So that inſtead of pretending all his for<g ref="char:EOLhyphen"/>mer promis'd Impunity and Tenderneſs to the People of <hi>England,</hi> or inſtead of Bravely grappling at his Royal Rival in the Imperial Seat, he vilely ſumes little leſs than a common Pyrate, Authorizes the Depredations of the <hi>Engliſh</hi> Merchants even by the very hands of <hi>Engliſhmen.</hi> This laſt poor Spirited Meanneſs muſt either plainly tell us, that he has utterly renounced all hopes of recovery of his Kingdoms; and ſo under that Deſpair he reſolves to play at a ſmall Game rather than ſtand out, (which indeed is the beſt Title I can give it) and conſequent<g ref="char:EOLhyphen"/>ly (like the Famous <hi>Dionyſius</hi> ſumed Pedagogue) when he can Scourge King<g ref="char:EOLhyphen"/>doms no longer, he prepares his leſſer Rods for a more humble Tyrannick Laſh; or elſe that forgetting that he ever was a Monarch, and therefore bluſhing at no<g ref="char:EOLhyphen"/>thing though never ſo Unprincely, he contents himſelf with being under Secre<g ref="char:EOLhyphen"/>tary to the <hi>French</hi> King, whilſt the little <hi>James</hi> is but a Subſcription to the Grea<g ref="char:EOLhyphen"/>ter <hi>Lewis.</hi> The <hi>French</hi> King deputes him as his <hi>Emanuenſis</hi> to Copy Commiſſions for hi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; and the Contented Receiver o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that high Favour is paid to officiate in the Truſt. It was remarkt of him, that at his firſt departure from <hi>England</hi> upon his Tranſport from <hi>Feverſham,</hi> he uttered this Expreſſion. <hi>That he had rather be a Captain of a Troop of Light Horſe under the</hi> French <hi>King, than Raign King of</hi> Eng<g ref="char:EOLhyphen"/>land <hi>under the Laſh and Controul of Parlia<g ref="char:EOLhyphen"/>ments.</hi> A Captain of a Troop of Horſe is no over-high Poſt. But truely of the two 'tis much the more Honourable than the granting of ſuch Commiſſions. But indeed all theſe tend to the aggrandizing o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he <hi>Freech</hi> King; the poorer the Sub<g ref="char:EOLhyphen"/>jects of <hi>England,</hi> the ſtronger the Grand <hi>Lewis;</hi> his inviolable Zeal and Fidelity, therefore to that moſt Chriſtian (ſo titled) <hi>Nero,</hi> ſupercedes all other Conſiderations, and <hi>(fas aut nefas)</hi> right or wrong, ho<g ref="char:EOLhyphen"/>nourable or infamous, nothing comes a<g ref="char:EOLhyphen"/>miſs that carries the leaſt ſhadow of ſervice to that darling Idol.</p>
+            <p>One thing is very Remarkable in the <hi>Janus</hi> Faces of King <hi>James</hi>'s Prete<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ces. This very Commiſſion found on Board one of the late Prizes, was dated at St. <hi>Germans,</hi> the 22d of <hi>February:</hi> which (pray obſerve) bearing date before his intended Invaſion; impours this Privateer to enter into any Port or River of <hi>Eng<g ref="char:EOLhyphen"/>land, Scotland,</hi> or <hi>Ireland;</hi> and commit all thoſe Hoſtilities of Firing, Sinking, Burning, <hi>&amp;c.</hi> All Traders Veſſels what<g ref="char:EOLhyphen"/>ever; at the ſame time that his Declarati<g ref="char:EOLhyphen"/>on, prepared for his Reception in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> intimated all the Affection and Ten<g ref="char:EOLhyphen"/>derneſs imaginable to the Intereſts Pro<g ref="char:EOLhyphen"/>perty, and what not, of his Subjects of <hi>England,</hi> viz. That he was coming only to recover his own Right, Eſtabliſh and Reſtore their Laws and Liberties; and yet at the ſame time he gave out Com<g ref="char:EOLhyphen"/>miſſions to Waſte, Ruine, and Deſtroy the moſt innocent Traders of the King<g ref="char:EOLhyphen"/>dom, poſſibly no ways intereſted in the Titles, and Diſputes of Princes, in Par<g ref="char:EOLhyphen"/>ties or Cauſes; but on the contrary only endeavouring a peaceable Acquiſition of their Dread, by their Honeſt Commerce and Induſtry.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>P. Smart,</hi> in the <hi>Poultry,</hi> 1692.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
